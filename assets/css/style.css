@@ -19,7 +19,7 @@ header h1 {
 }
 
 .iguana {
-    background-image: url(./img/bg-header.jpg); 
+    background-image: url(../img/bg-header.jpg); 
     background-repeat: no-repeat; 
     background-position: center;
     height: 727px;
